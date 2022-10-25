@@ -67,4 +67,7 @@
     <!-- NightLight FOD -->
     <bool name="disable_fod_night_light">true</bool>
     
+    <!-- The name of the package that will hold the dialer role by default. -->
+    <string name="config_defaultDialer" translatable="false">com.android.dialer</string>
+
 </resources>
